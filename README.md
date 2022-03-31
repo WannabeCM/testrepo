@@ -12,3 +12,4 @@ test repository with LIke LIon
 
 ---
 
+* 이 레파지토리는 블라블라~
